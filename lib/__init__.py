@@ -1,0 +1,1 @@
+print("Pacote de lib inicializado")
